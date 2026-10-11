@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "marshmallow-code",
+  "repo": "renovate-config",
+  "versions": [
+    {
+      "commit": "b04c0a3af10228c6b7917f553899786447d6d47f",
+      "parsed_at": "2026-10-11T08:02:32.418558+00:00",
+      "filetree": "filetree/b04c0a3af10228c6b7917f553899786447d6d47f.nq.gz",
+      "blobs": [
+        "blob/a8a065cb7f57fb8af4a3d651275080385429039e.nq.gz",
+        "blob/b2a4d7a11071ddfdc26dfca6047f41cea97ff9fb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
