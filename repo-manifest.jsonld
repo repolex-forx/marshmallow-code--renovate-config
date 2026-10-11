@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/renovate-config/commit/b04c0a3af10228c6b7917f553899786447d6d47f",
       "git:hexsha": "b04c0a3af10228c6b7917f553899786447d6d47f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
